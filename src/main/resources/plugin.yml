@@ -1,0 +1,5 @@
+name: Bingo
+main: fr.raphew.bingo.main.Main
+version: 1.0.0
+author: Raphew
+commands:

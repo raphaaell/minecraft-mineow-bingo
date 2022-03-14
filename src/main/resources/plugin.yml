@@ -3,3 +3,8 @@ main: fr.raphew.bingo.main.Main
 version: 1.0.0
 author: Raphew
 commands:
+  bingo:
+    description: Bingo principal command
+    default: true
+  party:
+    description: Join or create a party for the bingo game

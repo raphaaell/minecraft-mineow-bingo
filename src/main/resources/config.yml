@@ -1,0 +1,6 @@
+# Fichier de configuration
+
+spawn:
+  radius: 5000 # default: 5000, in blocks, player spawn circle radius
+  time: 5 # default: 5, in seconds, time before game start
+  timeInvulnerable: 10 # default: 10, in seconds, time when the player is invulnerable after the teleportation
